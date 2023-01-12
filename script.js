@@ -18,7 +18,7 @@ next.addEventListener('click', function (event) {
 
 prev.addEventListener('click', function (event) {
   event.preventDefault()
-  if (count == 3) {
+  if (count == 4) {
     // Xem hết bình luận
     return false
   }
